@@ -1,4 +1,4 @@
-copy paste commands
+🔥copy paste commands🔥
 unzip -l free-video-downloader
 cd ~/Yt-video-downloader-/free-video-downloader
 source .venv/bin/activate
