@@ -1,0 +1,8 @@
+## step 1 cloned the repository 
+git clone https://github.com/Ameerhamza793/Yt-video-downloader-.git
+## step 2 unzip the zip file 🗃️ 
+unzip -l free-video-downloader
+## step 3 change directory
+cd ~/Yt-video-downloader-/free-video-downloader
+## step 4 run this command 
+python app.py
