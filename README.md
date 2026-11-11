@@ -1,6 +1,5 @@
-unzip -l free-video-downloader
 ## Guidence BY Ameer Hamza
-
+unzip -l free-video-downloader
 Step 1 — Activate your existing environment
 Copy and run:
 cd ~/Yt-video-downloader-/free-video-downloader
@@ -32,7 +31,7 @@ Stop any running server with CTRL + C, then run:
 python app.py
 
 
-Open http://127.0.0.1:8080 in your browser.
+Open http://127.0.0.1:8080 in your 
 ## Usage
 Paste a supported HTTPS URL from YouTube, Instagram, or TikTok into the home page and submit. If the source allows extraction and the format is available, the page displays a temporary download link.
 🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬🪬
